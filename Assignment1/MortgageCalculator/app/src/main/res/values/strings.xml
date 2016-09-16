@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="header">Amount:</string>
+    <string name="amount_to_borrow">Enter an amount to borrow...</string>
+    <string name="seek_bar_text">Interest Rate:</string>
+    <string name="loan_term">Loan Term:</string>
+    <string name="radio_15_years">15 Years</string>
+    <string name="radio_20_years">20 Years</string>
+    <string name="radio_30_years">30 Years</string>
+    <string name="set_taxes_insurance">Include Tax and Insurance</string>
+    <string name="calculated_total">Total Per Month</string>
+    <string name="calculate">Calculate</string>
+</resources>
