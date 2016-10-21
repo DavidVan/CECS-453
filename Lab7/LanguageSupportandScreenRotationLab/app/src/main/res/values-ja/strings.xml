@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language Support and Screen Rotation Lab</string>
+    <string name="set_name">名前をセットして</string>
+    <string name="hello">今日は&#160;</string>
+</resources>
