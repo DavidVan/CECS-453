@@ -1,4 +1,4 @@
-package net.davidvan.temperatureconverter;
+package net.davidvan.junittestlab;
 
 /**
  * Created by David on 9/9/2016.
