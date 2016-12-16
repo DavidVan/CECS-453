@@ -36,8 +36,8 @@ public class DatabaseHandler extends SQLiteOpenHelper {
     @Override
     public void onCreate(SQLiteDatabase db) {
         String CREATE_CATEGORIES_TABLE = "CREATE TABLE " + TABLE_LABELS + "(" +
-                KEY_ID + " INTEGER PRIMARY KEY," +
-                KEY_NAME + " TEXT)";
+                KEY_ID + " INTEGER PRIMARY KEY, " +
+                KEY_NAME + " TEXT);";
         db.execSQL(CREATE_CATEGORIES_TABLE);
     }
 
